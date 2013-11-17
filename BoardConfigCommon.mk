@@ -83,9 +83,6 @@ BOARD_EGL_CFG := device/htc/msm8960-common/configs/egl.cfg
 # Lights
 TARGET_PROVIDES_LIBLIGHT := true
 
-# Power
-TARGET_USES_CM_POWERHAL := true
-
 # Webkit
 ENABLE_WEBGL := true
 TARGET_FORCE_CPU_UPLOAD := true
