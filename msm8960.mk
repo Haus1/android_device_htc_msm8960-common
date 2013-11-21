@@ -46,8 +46,6 @@ PRODUCT_PACKAGES += \
     libaudio-resampler \
     tinymix 
 
-BOARD_HAVE_PRE_KITKAT_AUDIO_BLOB := true
-
 # Graphics
 PRODUCT_PACKAGES += \
     copybit.msm8960 \
