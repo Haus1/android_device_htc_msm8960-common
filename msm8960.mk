@@ -70,8 +70,7 @@ PRODUCT_PACKAGES += \
     libOmxAmrEnc \
     libOmxEvrcEnc \
     libOmxQcelp13Enc \
-    libstagefrighthw \
-    libdashplayer
+    libstagefrighthw
 
 # Power
 PRODUCT_PACKAGES += \
